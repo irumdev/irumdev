@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- https://simpleicons.org/
 -->
 <a href="https://www.linkedin.com/in/irumdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:jklsj1252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jklsj1252@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <p>
